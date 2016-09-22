@@ -17,9 +17,3 @@ setting ``sharedAuthDomains``, e.g.:
 
 Each application will attempt to share its logged-in (or logged out) state with
 each of the listed domains.
-
-### Install
-
-Install with:
-
-    meteor add admithub:shared-auth

@@ -1,7 +1,9 @@
 Package.describe({
-  summary: "Share login among separate domains.",
-  version: "0.0.8",
-  name: "lumin:shared-auth",
+  summary: 'Share login among separate domains.',
+  version: '0.0.8',
+  name: 'lumin:shared-auth',
+  documentation: 'README.md',
+  git: 'https://github.com/bavuongco10/lumin-shared-auth.git'
 });
 
 Package.onUse(function (api) {
